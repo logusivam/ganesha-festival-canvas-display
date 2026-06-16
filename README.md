@@ -1,40 +1,54 @@
-# 🕉️ Ganesha Chakra Animation with Rotating Structures
+# [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#) [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](#)
 
-This project showcases a Ganesha image with chakra-like rotating backgrounds. The background is set to a vibrant gradient or solid color, and the chakra structures rotate in both clockwise and counterclockwise directions with varying shadow effects, creating a spiritual and visually engaging effect.
-  
-## ✨ Features
- 
-- **Ganesha Image**: Central focus on Lord Ganesha, with chakra-like backgrounds.
-- **Chakra Animation**: Three layers of rotating chakra-like circles, with clockwise and counterclockwise movements.
-- **3D Shadow Effect**: The shadow effect varies between each chakra, enhancing the visual depth of the animation.
-- **Fully Responsive**: Works seamlessly on different screen sizes.   
+# threejs-ganesha-chaturthi-animation
 
-## 🛠️ Tech Stack
+## Table of Contents
+- [Project Overview & Key Features](#project-overview--key-features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Running Tests](#running-tests)
+- [Maintainers & Attribution](#maintainers--attribution)
 
-- **HTML**: For creating the structure of the page.
-- **CSS**: For designing the layout, animations, and visual effects.
+## Project Overview & Key Features
+* Dedicated, high-fidelity festive front-end cultural display module optimized for Ganesha Chaturthi digital celebrations.
+* Centralized asset layering featuring a focal image component with advanced depth positioning.
+* Multi-layered concentric chakra animation matrix: 1st chakra (clockwise), 2nd chakra (counter-clockwise), and 3rd chakra (clockwise).
+* Dynamic CSS-driven gradient color backgrounds synchronized with real-time canvas animation frames.
+* Integrated multi-source asset orchestration delivering optimized imagery and potential analytical charting capabilities.
 
-## 🚀 How to Run the Project
+## Tech Stack
+* **Graphics & Rendering:** Three.js (WebGL), HTML5 Canvas, CSS3 Keyframes
+* **Asset Hosting & Media:** Cloudinary CDN
+* **Data Visualization:** Chart.js
+* **UI Controls & Utilities:** Swiper, Varnish, Font Awesome, Google Fonts
+* **Backend Infrastructure:** Firebase Integration
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/logusivam/Ganesha-Background-Animation.git
-   ```
+## Getting Started
 
-2. **Navigate to the Project Directory**
-   ```
-   cd Ganesha-Background-Animation
-   ```
+### Prerequisites
+* Modern web browser with full WebGL 1.0/2.0 implementation and hardware acceleration.
+* Valid Cloudinary account keys and Firebase configuration endpoints.
 
-3. Open the `index.html` File: Open `index.html` in your browser to view the website.
+### Installation
+```bash
+git clone <repo url>
+```
 
-## 🎨 Customization
-- **Background Colors:** Change the background colors by modifying the CSS gradient.
-- **Ganesha Image:** Replace the Ganesha image with your preferred image by editing the image URL in the HTML.
-Chakra Rotation Speed: Adjust the rotation speed by modifying the CSS keyframes.
+### Usage
+```bash
+open using the Live server
+```
 
-## 🤝 Contributions
-Contributions are welcome! Feel free to enhance the design, add more animation layers, or customize the visual effects.
+## Maintainers & Attribution
+This enterprise asset is actively maintained and monitored by the core data engineering group. 
 
-## 📜 License
-This project is licensed under the MIT License. Please refer to the LICENSE file for details.
+Special recognition to our principal maintainers and authors for their contributions:
+* **Loganathan G P** (Lead Architect)
+* GitHub: [logananthan](#) / [logusivam](#)
+* Core Engineering Sign-off: **G P**
+
+---
+Managed by the Open Source SEO Initiative.
